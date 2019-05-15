@@ -26,4 +26,9 @@ npm run lint
 ```
 
 ### Customize configuration
+
+### CSS
+```
+Materialize
+```
 See [Configuration Reference](https://cli.vuejs.org/config/).
